@@ -2,7 +2,7 @@
 
 ## Repository Link
 
-Paste your public GitHub repository URL here.
+https://github.com/sanskar1604/CareLoop-Clinics-No-Show-Guard----CareLoop-Clinics-No-Show-Guard.git
 
 ---
 
